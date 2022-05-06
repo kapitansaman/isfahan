@@ -5969,7 +5969,7 @@ fieldset[disabled] .navbar-inverse .btn-link:hover {
 
 .pagination {
     display: inline-block;
-    padding-left: 0;
+    padding-right: 0;
     margin: 20px 0;
     border-radius: 4px
 }
@@ -10812,15 +10812,6 @@ td {
         .footer-text p {
             display: none
         }
-
-<<<<<<< HEAD
-        @font-face {
-            font-family: 'g';
-            src: url("../font/g.woff.eot?#") format("eot"), url("../font/g.woff") format("woff"), url("../font/g.woff2") format("woff2")
-        }
-
-=======
->>>>>>> 09f6d374cb3a60828b0f27cfcab3e2e6d47fac39
         html,
         code,
         kbd,
