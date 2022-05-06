@@ -1,0 +1,22 @@
+
+
+{%- if site.data.conf.posts.post_table_of_contents and page.layout == "post"-%}
+    <link href="{{ site.baseurl }}/assets/css/bootstrap-toc.min.css" rel="stylesheet">
+{% endif -%}
+
+{%- if site.data.conf.posts.post_table_of_contents and page.layout == "home"-%} 
+
+{%- else %}
+<link href="{{ site.baseurl }}/assets/css/bootstrap.min.css" rel="stylesheet">
+<link href="{{ site.baseurl }}/assets/css/font-awesome.min.css" rel="stylesheet">
+<link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
+<link href="{{ site.baseurl }}/assets/css/nav-media.css" rel="stylesheet">
+{% endif -%}
+
+
+
+
+
+
+
+
