@@ -15,7 +15,7 @@
   url: "https://t.me/share/url?url={url}&text={text}"
 - whatsapp:
   icon: "fa fa-whatsapp"
-  url: "https://api.whatsapp.com/send?phone={phone_number}&text={title}%20{url}"
+  url: "whatsapp://send?text={title}%20{url}"
 - linkedin:
   icon: "fa fa-linkedin-square"
   url: "https://www.linkedin.com/sharing/share-offsite/?url={url}"
