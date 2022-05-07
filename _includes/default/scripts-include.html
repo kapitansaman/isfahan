@@ -56,7 +56,7 @@ this.activeTarget=b,this.clear();var c=this.selector+'[data-target="'+b+'"],'+th
     {% if site.data.conf.main.use_cdn_resources_if_available -%}
       <script src="https://cdnjs.cloudflare.com/ajax/libs/lozad.js/1.16.0/lozad.min.js"></script>
     {%- else %}
-      <script src="{{ site.baseurl }}/assets/js/lozad.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/lozad.js/1.16.0/lozad.min.js"></script>
     {%- endif %}
     <script>
       /* lazy loads elements with default selector as '.lozad' */
