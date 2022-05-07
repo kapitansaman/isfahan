@@ -1,13 +1,6 @@
 ---
 layout: util/compress_js
 ---
-/*! Mr. Green Jekyll Theme - v1.0.1 (https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme)
- *  Copyright (c) 2022 Mr. Green's Workshop https://www.MrGreensWorkshop.com
- *  Licensed under MIT
-*/
-
-/* set web page initial color scheme */
-/* page color scheme = storedColorScheme < userColorScheme < browserColorScheme; */
 
 (function () {
   'use strict';
