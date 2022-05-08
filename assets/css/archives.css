@@ -830,6 +830,7 @@ footer {
     z-index: 2;
     white-space: nowrap;
     position: absolute;
+    right:10px;
     background-color: var(--footer-background-color)
 }
 
@@ -849,10 +850,6 @@ footer {
 
 .main-container {
     padding-bottom: calc(var(--main-container-padding-bottom) + var(--footer-height))
-}
-
-.footer-powered {
-    margin-right: var(--main-container-margin)
 }
 
 .footer-text {
