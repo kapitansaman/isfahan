@@ -1770,3 +1770,32 @@ footer {
     background-color: var(--footer-background-color);
     margin-right: unset !important;
 }
+.footer-container {
+    position: fixed;
+    box-shadow: initial;
+    width: calc(100% - var(--side-nav-width));
+    max-width: var(--main-container-max-width);
+    right: var(--side-nav-width);
+}
+
+.main-container {
+    padding-bottom: calc( var(--main-container-padding-bottom) + var(--footer-height));
+}
+
+.footer-powered {
+    margin-right: var(--main-container-margin);
+}
+
+.footer-text {
+    margin-right: var(--main-container-margin);
+}
+
+.footer-text-centered {
+    margin-right: 0;
+}
+
+@media (max-width: 500px) {
+    .footer-text-centered.long-copyright {
+        margin-right: var(--main-container-margin);
+    }
+}
