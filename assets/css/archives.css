@@ -1746,7 +1746,7 @@ margin-right: 120px;
     z-index: 2;
     white-space: nowrap;
     position: absolute;
-    right: 25px;
+    right: 5px;
     background-color: var(--footer-background-color);
     margin-right: unset !important;
 }
