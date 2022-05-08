@@ -365,14 +365,18 @@ html {
     --side-top-nav-buttons-hover-text-color: #303033;
     --side-top-nav-buttons-active-text-color: #303033
 }
-
+footer, header, main, menu, nav, summary {
+    display: block;
+}
 .top-nav, #side-nav-container {
     --side-top-nav-brand-text-color: #416289;
     --side-top-nav-brand-hover-text-color: #5f5e5e;
     --side-top-nav-background-color: #f9f9f9;
     --side-nav-sub-title-text-color: #6e6e6e;
     --side-nav-copyright-text-color: #a19e9e;
-    --side-nav-right-border-color: #eee
+    --side-nav-right-border-color: #eee;
+    background: var(--side-top-nav-background-color);
+    transition: all 0.4s ease;
 }
 
 .side-nav-bottom-buttons-container {
@@ -868,10 +872,6 @@ p {
     margin-right: 0
 }
 
-.top-nav, #side-nav-container {
-    background: var(--side-top-nav-background-color);
-    transition: all 0.4s ease
-}
 
 #side-nav-container {
     width: var(--side-nav-width-def);
@@ -881,8 +881,7 @@ p {
     z-index: 1000;
     right: 0;
     top: 0;
-    border-left: solid 1px var(--side-nav-right-border-color);
-    text-align: center
+    text-align: center;
 }
 
 .side-nav {
