@@ -789,10 +789,6 @@ hr {
     font-weight: 300
 }
 
-footer {
-    position: relative
-}
-
 .footer-wrapper {
     max-width: var(--main-container-max-width);
     padding-right: var(--main-container-margin);
@@ -1752,7 +1748,7 @@ footer {
 }
 
 .footer-text p, .footer-powered {
-    font-size: 1.15rem;
+    font-size: 11px;
     margin-bottom: 0;
     padding-bottom: 5px;
     color: var(--footer-text-color);
