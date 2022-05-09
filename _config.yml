@@ -124,6 +124,7 @@ exclude: ["Gemfile*", "README*", "LICENSE", "docs"]
 url: "https://composite-panel.ir" 
 plugins:
   - jekyll-sitemap
+###########################################
 webrick:
   headers:
     Cache-Control: private, max-age=860000, proxy-revalidate, no-store, no-cache, must-revalidate
