@@ -20,7 +20,7 @@ layout: default
 
 {%- if lng_pages.size > 0 and site.data.conf.others.home.new_posts %}
 <div class="multipurpose-container new-posts-container">
-  <span>{{ site.data.lang[lng].home.new_posts_title }}</span>
+  <div>{{ site.data.lang[lng].home.new_posts_title }}</div>
   <ul class="new-posts">
   {%- for _post in lng_pages limit: site.data.conf.others.home.new_posts_count_limit -%}
     <li>
