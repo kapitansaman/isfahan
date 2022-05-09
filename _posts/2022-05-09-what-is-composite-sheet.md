@@ -179,10 +179,16 @@ aparatId: 34139279609
 ما سعی کردیم ویدئویی در این رابطه برای آشنایی بهتر شما با این نوع ورق ها از منابع خارجی تهیه کنیم.
 
 
+
+
 {% include aparat.html id=page.aparatId %}
 
 
+
+
 <figure role="group"><img src=":what-is-acp-sheet-3.webp" width="750"  height="500" alt="ورق کامپوزیت سه بعدی" title="ورق کامپوزیت سه بعدی" /><figcaption>ورق کامپوزیت سه بعدی</figcaption></figure>
+
+
 
 ## ورق کامپوزیت نانو هایگلاس شاینینگ چیست؟
 
