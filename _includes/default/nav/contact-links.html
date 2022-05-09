@@ -9,7 +9,7 @@ zamtar tarah
 {%- endif -%}
 <div class="contact-container">
   <hr>
-  <h3>{{ site.data.lang[lng].navigation.contact_header }}</h3>
+  <span>{{ site.data.lang[lng].navigation.contact_header }}</span>
   <ul>
   {%- for accounts in site.data.owner.contacts -%}
     {%- assign account_var = accounts | first %}{% assign account_key = account_var[0] %}{% assign account_username = account_var[1] -%}
