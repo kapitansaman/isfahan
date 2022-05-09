@@ -127,4 +127,4 @@ plugins:
 ###########################################
 webrick:
   headers:
-    cache-control: max-age=60000
+    cache-control: max-age=2628000, public
