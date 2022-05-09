@@ -1543,3 +1543,6 @@ footer {
     position: relative;
     margin: 0 var(--side-nav-side-margin);
 }
+.fa-angle-up:before {
+    content: "\f106";
+}
