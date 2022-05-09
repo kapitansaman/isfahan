@@ -1536,3 +1536,10 @@ footer {
     background-color: var(--footer-background-color);
     margin-right: unset !important
 }
+.contact-container {
+    --contact-icons-color: #a19e9e;
+    --contact-icons-hover-color: #303033;
+    --contact-header-color: #a19e9e;
+    position: relative;
+    margin: 0 var(--side-nav-side-margin);
+}
