@@ -1,6 +1,5 @@
 ---
 layout: post
-title: aluminium composite in tehran
 date: 2022-05-09 20:24 +0430
 lng_pair: id_114
 title: اجرای نمای کامپوزیت در تهران
@@ -21,7 +20,7 @@ tags: [نمای کامپوزیت
 ورق نمای کامپوزیت در تهران,
 ]
 img: ":acp-panel-sheet-tehran-price-6.webp"
-permalink: /aluminium-composite-sheet-tehran/
+permalink: /aluminium-composite-sheet-in-tehran/
 meta_modify_date: 2022-05-09 20:24 +0430
 meta_description: "اجرای نمای کامپوزیت در تهران | مغازه | خرید ورق کامپوزیت در تهران | تبریز | کرج | تابلو | ساختمان مسکونی | قیمت ورق کامپوزیت طرح سنگ | لیست قیمت ورق | ویلایی | معایب"
 image_viewer_on: true
