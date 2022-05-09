@@ -127,4 +127,4 @@ plugins:
 ###########################################
 webrick:
   headers:
-    Cache-Control: private, max-age=860000, proxy-revalidate, no-store, no-cache, must-revalidate
+    cache-control: max-age=60000
