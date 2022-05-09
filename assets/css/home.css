@@ -330,13 +330,13 @@ footer {
 
 .side-nav-buttons ul {
     margin-bottom: 0;
-    list-style: none;
     margin-bottom: 0;
-    display: inline-block;
-    text-align: right
+    display: inline-block
 }
 
-.side-nav-buttons li,
+
+
+
 .top-nav-buttons li {
     font-weight: 400;
     font-size: 1.7rem;
@@ -438,9 +438,7 @@ html[lang=en-US] .side-nav-buttons ul {
     transition: var(--scale-effect)
 }
 
-.hover-effect.active-page,
-.hover-effect:hover,
-.hover-effect:not(.active-page):hover {
+.hover-effect.active-page
     transform: var(--scale-effect-normal)
 }
 
@@ -955,12 +953,6 @@ summary {
     display: none
 }
 
-a {
-    background-color: transparent;
-    text-decoration: none;
-    color: var(--body-anchor-text-color)
-}
-
 a:active,
 a:hover {
     outline: 0
@@ -1011,7 +1003,8 @@ input[type=radio] {
     box-sizing: border-box;
     padding: 0;
     margin: 4px 0 0;
-    line-height: normal
+    line-height: normal;
+    display: none
 }
 
 table {
@@ -1027,7 +1020,6 @@ table {
 .h5,
 .h6,
 .tooltip,
-a,
 body,
 button,
 code,
@@ -1040,7 +1032,6 @@ h6,
 html,
 input {
     color: var(--body-header-text-color);
-    src: url(../font/g.woff);
     font-family: 'g'
 }
 
@@ -1121,7 +1112,7 @@ ol,
 ul {
     margin-top: 0;
     margin-bottom: 10px;
-    font-weight: 300
+
 }
 
 label {
@@ -1136,8 +1127,6 @@ label {
 
 .nav>li>a {
     position: relative;
-    display: block;
-    padding: 10px 15px
 }
 
 .nav-pills>li {
@@ -1646,13 +1635,11 @@ html[lang=en-US] .side-nav-buttons ul {
     border: none
 }
 
-nav[data-toggle=toc] .nav>li>a {
-    display: block;
-    padding: 5px;
-    font-size: 13px;
-    font-weight: 500;
-    color: #767676
-}
+
+
+
+
+
 
 nav {
     display: block
@@ -2359,10 +2346,10 @@ html[lang=en-US] .new-posts>li span {
 nav[data-toggle=toc] .nav>li>a {
     display: block;
     padding: 5px;
-    font-size: 13px;
     font-weight: 500;
     color: #767676
 }
+
 
 nav[data-toggle=toc] .nav>li>a:focus,
 nav[data-toggle=toc] .nav>li>a:hover {
