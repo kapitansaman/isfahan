@@ -172,6 +172,10 @@ image_lazy_loader_on: true
 
 ما سعی کردیم دو ویدئو در این رابطه برای آشنایی بهتر شما با این نوع ورق ها از منابع خارجی تهیه کنیم.
 
+[![ورق کامپوزیت سه بعدی](https://composite-isfahan.ir/wp-content/uploads/2022/04/%D9%88%D8%B1%D9%82-%DA%A9%D8%A7%D9%85%D9%BE%D9%88%D8%B2%DB%8C%D8%AA-%D9%84%D8%A7%D9%86%D9%87-%D8%B2%D9%86%D8%A8%D9%88%D8%B1%DB%8C.webp)](https://www.aparat.com/embed/KFdvm "ورق کامپوزیت سه بعدی")
+
+
+
 <figure role="group"><img src=":what-is-acp-sheet-3.webp" width="750"  height="500" alt="ورق کامپوزیت سه بعدی" title="ورق کامپوزیت سه بعدی" /><figcaption>ورق کامپوزیت سه بعدی</figcaption></figure>
 
 ## ورق کامپوزیت نانو هایگلاس شاینینگ چیست؟
