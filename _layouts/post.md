@@ -4,7 +4,9 @@ layout: default
 {%- include multi_lng/get-lng-by-url.liquid -%}
 {%- assign lng = get_lng -%}
 {%- include post_common/post-main.html post = page -%}
-
+{% if page.faq %}
+{% include faq-schema-content.html %}
+{% endif %}
 {%-comment-%} Pagination {%-endcomment-%}
 {% if site.posts.size > 1 -%}
   {% include multi_lng/get-pages-by-lng.liquid pages = site.posts -%}
