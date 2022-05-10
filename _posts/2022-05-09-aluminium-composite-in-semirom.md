@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-05-09 22:18 +0430
-lng_pair: id_208
+lng_pair: id_234
 title: اجرای نمای کامپوزیت در سمیرم | 09122448082
 author: Aslani
 category: advertising

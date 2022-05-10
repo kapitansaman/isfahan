@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-05-09 22:16 +0430
-lng_pair: id_206
+lng_pair: id_237
 title: اجرای نمای کامپوزیت در مبارکه | 09122448082
 author: Aslani
 category: advertising
