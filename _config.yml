@@ -125,7 +125,3 @@ url: "https://composite-panel.ir"
 plugins:
   - jekyll-sitemap
 ###########################################
-webrick:
-  headers:
-    cache-control: max-age=2628000, public
-    age: 2628000
