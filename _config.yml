@@ -115,7 +115,6 @@ sass:
   sass_dir: assets/_scss
   # enable css compression
   style: compressed
-
 ###########################################################
 # Exclude these files or folders from production site
 ###########################################################
@@ -124,4 +123,3 @@ exclude: ["Gemfile*", "README*", "LICENSE", "docs"]
 url: "https://composite-panel.ir"
 plugins:
   - jekyll-sitemap
-###########################################

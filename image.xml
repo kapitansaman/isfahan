@@ -1,13 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+
 		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
 	<loc>https://composite-panel.ir/</loc>
-	<lastmod>2022-05-08T02:42:28+01:00</lastmod>
+	<lastmod>2022-05-10T16:41:21+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>https://composite-panel.ir/en/</loc>
-	<lastmod>2022-05-08T02:42:28+01:00</lastmod>
+	<lastmod>2022-05-10T16:41:21+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://composite-panel.ir/assets/img/posts/composite.webp</image:loc>
@@ -57,22 +58,22 @@
 </url>
 <url>
 	<loc>https://composite-panel.ir/ar/</loc>
-	<lastmod>2022-05-08T02:42:28+01:00</lastmod>
+	<lastmod>2022-05-10T16:41:21+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://composite-panel.ir/tabs/blog/</loc>
-	<lastmod>2022-05-08T02:42:28+01:00</lastmod>
+	<lastmod>2022-05-10T16:41:21+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://composite-panel.ir/tabs/archive.html</loc>
-	<lastmod>2022-05-08T02:42:28+01:00</lastmod>
+	<lastmod>2022-05-10T16:41:21+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://composite-panel.ir/tabs/projects.html</loc>
-	<lastmod>2022-05-08T02:42:28+01:00</lastmod>
+	<lastmod>2022-05-10T16:41:21+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://composite-panel.ir/assets/img/projects/aluminium-composite-facade-shop-sign-fast-food2.webp</image:loc>
@@ -638,20 +639,167 @@
 </url>
 <url>
 	<loc>https://composite-panel.ir/tabs/links.html</loc>
-	<lastmod>2022-05-08T02:42:28+01:00</lastmod>
+	<lastmod>2022-05-10T16:41:21+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://composite-panel.ir/tabs/about.html</loc>
-	<lastmod>2022-05-08T02:42:28+01:00</lastmod>
+	<lastmod>2022-05-10T16:41:21+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://composite-panel.ir/assets/img/about/aluminium-composite-projects.avifs</image:loc>
 	</image:image>
 </url>
 <url>
+	<loc>https://composite-panel.ir/advantages-disadvantages-acp-sheet/</loc>
+	<lastmod>2022-05-10T16:41:21+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://composite-panel.ir/assets/img/posts/advantages-disadvantages-acp-sheet-2.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://composite-panel.ir/assets/img/posts/advantages-disadvantages-acp-sheet-1.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://composite-panel.ir/assets/img/posts/advantages-disadvantages-acp-sheet-3.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://composite-panel.ir/assets/img/posts/advantages-disadvantages-acp-sheet-4.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://composite-panel.ir/assets/img/posts/advantages-disadvantages-acp-sheet-5.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://composite-panel.ir/assets/img/posts/advantages-disadvantages-acp-sheet-6.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://composite-panel.ir/assets/img/posts/advantages-disadvantages-acp-sheet-7.webp</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://composite-panel.ir/what-is-aluminium-composite-sheet/</loc>
+	<lastmod>2022-05-10T16:41:21+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://composite-panel.ir/assets/img/posts/what-is-acp-sheet-9.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://composite-panel.ir/assets/img/posts/what-is-acp-sheet-1.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://composite-panel.ir/assets/img/posts/what-is-acp-sheet-8.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://composite-panel.ir/assets/img/posts/what-is-acp-sheet-2.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://composite-panel.ir/assets/img/posts/what-is-acp-sheet-7.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://composite-panel.ir/assets/img/posts/what-is-acp-sheet-6.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://composite-panel.ir/assets/img/posts/what-is-acp-sheet-5.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://composite-panel.ir/assets/img/posts/what-is-acp-sheet-4.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://composite-panel.ir/assets/img/posts/what-is-acp-sheet-3.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://composite-panel.ir/assets/img/posts/what-is-acp-sheet-10.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://composite-panel.ir/assets/img/posts/what-is-acp-sheet-11.webp</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://composite-panel.ir/aluminium-composite-sheet-in-tehran/</loc>
+	<lastmod>2022-05-10T16:41:21+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://composite-panel.ir/assets/img/posts/acp-panel-sheet-tehran-price-1.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://composite-panel.ir/assets/img/posts/acp-panel-sheet-tehran-price-2.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://composite-panel.ir/assets/img/posts/acp-panel-sheet-tehran-price-3.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://composite-panel.ir/assets/img/posts/acp-panel-sheet-tehran-price-4.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://composite-panel.ir/assets/img/posts/acp-panel-sheet-tehran-price-5.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://composite-panel.ir/assets/img/posts/acp-panel-sheet-tehran-price-6.webp</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://composite-panel.ir/en/tabs/blog/</loc>
+	<lastmod>2022-05-10T16:41:22+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://composite-panel.ir/en/tabs/archive.html</loc>
+	<lastmod>2022-05-10T16:41:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://composite-panel.ir/en/tabs/projects.html</loc>
+	<lastmod>2022-05-10T16:41:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://composite-panel.ir/en/tabs/links.html</loc>
+	<lastmod>2022-05-10T16:41:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://composite-panel.ir/en/tabs/about.html</loc>
+	<lastmod>2022-05-10T16:41:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://composite-panel.ir/en/2022-04-30-composite-panel</loc>
+	<lastmod>2022-05-10T16:41:22+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://composite-panel.ir/ar/tabs/blog/</loc>
+	<lastmod>2022-05-10T16:41:24+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://composite-panel.ir/ar/tabs/archive.html</loc>
+	<lastmod>2022-05-10T16:41:24+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://composite-panel.ir/ar/tabs/projects.html</loc>
+	<lastmod>2022-05-10T16:41:24+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://composite-panel.ir/ar/tabs/links.html</loc>
+	<lastmod>2022-05-10T16:41:24+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://composite-panel.ir/ar/tabs/about.html</loc>
+	<lastmod>2022-05-10T16:41:24+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://composite-panel.ir/ar/2022-04-30-composite-panel</loc>
+	<lastmod>2022-05-10T16:41:24+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
 	<loc>https://composite-panel.ir/aluminium-composite-sheet-price-list/</loc>
-	<lastmod>2022-05-08T02:42:28+01:00</lastmod>
+	<lastmod>2022-05-10T16:41:25+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://composite-panel.ir/assets/img/posts/acp-price-list-2.webp</image:loc>
@@ -701,7 +849,7 @@
 </url>
 <url>
 	<loc>https://composite-panel.ir/thermowood-price-list/</loc>
-	<lastmod>2022-05-08T02:42:28+01:00</lastmod>
+	<lastmod>2022-05-10T16:41:25+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://composite-panel.ir/assets/img/posts/thermowood-price-list-1.webp</image:loc>
@@ -748,67 +896,7 @@
 </url>
 <url>
 	<loc>https://composite-panel.ir/posts/2022-04-30-composite-panel</loc>
-	<lastmod>2022-05-08T02:42:28+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://composite-panel.ir/en/tabs/blog/</loc>
-	<lastmod>2022-05-08T02:42:28+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://composite-panel.ir/en/tabs/archive.html</loc>
-	<lastmod>2022-05-08T02:42:28+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://composite-panel.ir/en/tabs/projects.html</loc>
-	<lastmod>2022-05-08T02:42:28+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://composite-panel.ir/en/tabs/links.html</loc>
-	<lastmod>2022-05-08T02:42:28+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://composite-panel.ir/en/tabs/about.html</loc>
-	<lastmod>2022-05-08T02:42:28+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://composite-panel.ir/en/2022-04-30-composite-panel</loc>
-	<lastmod>2022-05-08T02:42:28+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://composite-panel.ir/ar/tabs/blog/</loc>
-	<lastmod>2022-05-08T02:42:30+01:00</lastmod>
-	<priority>0.4</priority>
-</url>
-<url>
-	<loc>https://composite-panel.ir/ar/tabs/archive.html</loc>
-	<lastmod>2022-05-08T02:42:30+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://composite-panel.ir/ar/tabs/projects.html</loc>
-	<lastmod>2022-05-08T02:42:30+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://composite-panel.ir/ar/tabs/links.html</loc>
-	<lastmod>2022-05-08T02:42:30+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://composite-panel.ir/ar/tabs/about.html</loc>
-	<lastmod>2022-05-08T02:42:30+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://composite-panel.ir/ar/2022-04-30-composite-panel</loc>
-	<lastmod>2022-05-08T02:42:30+01:00</lastmod>
+	<lastmod>2022-05-10T16:41:25+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 </urlset>
